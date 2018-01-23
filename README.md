@@ -4,27 +4,35 @@ Fill in the text below with your own answers to each question. Each person in yo
 ## About You
 What are your names as they appear on the class roster?
 > Mackenzie McFate
+> Jonathan Gilmour
 
 What do you prefer to be called?
 > Mackenzie
+> Jonathan
 
 What are your GitHub usernames?
 > mackengm
+> gilmourj
 
 Why are you taking this course?
 > I'm taking this course because my schedule is tight, but this class fits and seemed more interesting than the other options.
+> I'm interested in Operating Systems and wanted to take a class with Charlie. Also, I figured this would be a good semester to fulfill my requirement.
 
 Do you have any concerns about this course?
 > I don't think so.
+> Workload, but I think it will be manageable as long as I stay on top of my studying.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
 > The password cracker and shells lab look the most interesting to me.
+> Also the password cracker, and multi-CPU scheduling.
 
 Do you have any questions about the course?
 > I don't have any questions at this time.
+> Nope, not yet.
 
 Do you have any other questions for me?
 > I don't have any questions for you at this time.
+> What drives you to teach this course?
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
