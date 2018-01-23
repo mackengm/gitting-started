@@ -11,28 +11,28 @@ What do you prefer to be called?
 > Jonathan
 
 What are your GitHub usernames?
-> mackengm
-> gilmourj
+> Mackenzie: mackengm
+> Jonathan: gilmourj
 
 Why are you taking this course?
-> I'm taking this course because my schedule is tight, but this class fits and seemed more interesting than the other options.
-> I'm interested in Operating Systems and wanted to take a class with Charlie. Also, I figured this would be a good semester to fulfill my requirement.
+> Mackenzie: I'm taking this course because my schedule is tight, but this class fits and seemed more interesting than the other options.
+> Jonathan: I'm interested in Operating Systems and wanted to take a class with Charlie. Also, I figured this would be a good semester to fulfill my requirement.
 
 Do you have any concerns about this course?
-> I don't think so.
-> Workload, but I think it will be manageable as long as I stay on top of my studying.
+> Mackenzie: I don't think so.
+> Jonathan: Workload, but I think it will be manageable as long as I stay on top of my studying.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> The password cracker and shells lab look the most interesting to me.
-> Also the password cracker, and multi-CPU scheduling.
+> Mackenzie: The password cracker and shells lab look the most interesting to me.
+> Jonathan: Also the password cracker, and multi-CPU scheduling.
 
 Do you have any questions about the course?
-> I don't have any questions at this time.
-> Nope, not yet.
+> Mackenzie: I don't have any questions at this time.
+> Jonathan: Nope, not yet.
 
 Do you have any other questions for me?
-> I don't have any questions for you at this time.
-> What drives you to teach this course?
+> Mackenzie: I don't have any questions for you at this time.
+> Jonathan: What drives you to teach this course?
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
